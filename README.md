@@ -1,3 +1,12 @@
+<style>
+    @media (prefers-color-scheme: dark) {
+    :root {
+        --body-bg: #000000;
+        --body-color: #FFFFFF;
+    }
+</style>
+
+
 # Portfólio Pessoal
 
 ## Experiência Criativa: Navegando na Computação
