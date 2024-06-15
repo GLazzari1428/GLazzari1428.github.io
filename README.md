@@ -11,7 +11,6 @@ O primeiro projeto foi a criação de um jogo utilizando a plataforma Construct.
   <img src="jogo2.png" alt="drawing" width="400"/>
 </div>
 
-
 ### Aplicativo Multimídia: Entendendo Logaritmos
 O segundo projeto foi um aplicativo que facilitava o entendimento de logaritmos na matemática. Utilizamos o Processing para criar uma aplicação dividida em duas partes: a primeira explicava detalhadamente o conceito de logaritmo, e a segunda continha um quiz para testar o conhecimento.
 
@@ -49,13 +48,11 @@ A tabela verdade é uma ferramenta utilizada para determinar a veracidade das pr
 ### Equivalências e Regras de Inferência
 Equivalências são expressões lógicas que sempre têm o mesmo valor de verdade. Regras de inferência são utilizadas para deduzir novas proposições a partir de proposições já conhecidas.
 
-<p>
 <div style="display: flex; justify-content: center;">
   <img src="logica2.png" alt="drawing" width="400"/>
-  
   <img src="logica3.png" alt="drawing" width="400"/>
 </div>
-<p></p>
+
 <div style="display: flex; justify-content: center;">
   <img src="logica4.png" alt="drawing" width="400"/>
 </div>
@@ -77,7 +74,6 @@ Estudamos o conceito de Máquina de Turing, um modelo teórico de computação q
 ### Sistemas Operacionais: Windows Vista
 Analisamos sistemas operacionais, com um foco especial no Windows Vista.
 
-
 <div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K7oa33jKkzc?si=-b8RpXobgzddjJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -87,12 +83,11 @@ Comparação entre as arquiteturas RISC (Reduced Instruction Set Computing) e CI
 
 ### ESP32 e MQTT
 Aprendemos sobre o microcontrolador ESP32 e o protocolo de comunicação MQTT, essenciais para o desenvolvimento de sistemas de IoT (Internet of Things).
-<p>
+
 <div style="display: flex; justify-content: center;">
   <img src="mqtt1.png" alt="drawing" width="600"/>
 </div>
-<p>
+
 <div style="display: flex; justify-content: center;">
   <img src="mqtt2.png" alt="drawing" width="400"/>
 </div>
-
