@@ -55,7 +55,7 @@ Equivalências são expressões lógicas que sempre têm o mesmo valor de verdad
   
   <img src="logica3.png" alt="drawing" width="400"/>
 </div>
-<p>
+<p></p>
 <div style="display: flex; justify-content: center;">
   <img src="logica4.png" alt="drawing" width="400"/>
 </div>
@@ -76,17 +76,23 @@ Estudamos o conceito de Máquina de Turing, um modelo teórico de computação q
 
 ### Sistemas Operacionais: Windows Vista
 Analisamos sistemas operacionais, com um foco especial no Windows Vista.
+
+
 <div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K7oa33jKkzc?si=-b8RpXobgzddjJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-
 
 ### Arquiteturas RISC vs CISC
 Comparação entre as arquiteturas RISC (Reduced Instruction Set Computing) e CISC (Complex Instruction Set Computing), destacando suas características e aplicações.
 
 ### ESP32 e MQTT
 Aprendemos sobre o microcontrolador ESP32 e o protocolo de comunicação MQTT, essenciais para o desenvolvimento de sistemas de IoT (Internet of Things).
+<p>
+<div style="display: flex; justify-content: center;">
+  <img src="mqtt1.png" alt="drawing" width="600"/>
+</div>
+<p>
+<div style="display: flex; justify-content: center;">
+  <img src="mqtt2.png" alt="drawing" width="400"/>
+</div>
 
-![Imagem do ESP32](#)
-![Imagem do MQTT](#)
