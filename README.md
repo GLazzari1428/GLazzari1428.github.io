@@ -1,10 +1,6 @@
-<style>
-    @media (prefers-color-scheme: dark) {
-    :root {
-        --body-bg: #000000;
-        --body-color: #FFFFFF;
-    }
-</style>
+<head>
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
 
 
 # Portfólio Pessoal
